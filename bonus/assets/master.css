@@ -59,15 +59,16 @@ img{
 
 }
 
-[class^="img-box"] h1{
+[class^="img-box"] p{
     text-transform: uppercase;
+    font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
     text-align: center;
     color: yellow;
 }
 
-h1.greener{
+p.greener{
     color: green;
 }
 
